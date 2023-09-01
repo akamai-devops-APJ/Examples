@@ -1,10 +1,8 @@
 This is a Terraform and Kubenetes exercise for Akamai ASEAN Developer training 
 
-![image](https://github.com/akamai-devops-APJ/williamkwek-developer-finalexercise/assets/92004085/25c58e3d-b019-4faf-b4b0-fa058579d5d6)
+![image](https://github.com/akamai-devops-APJ/Examples/assets/92004085/2799dbe2-5d98-401c-91bb-1d5761df6484)
 
-
-![image](https://github.com/akamai-devops-APJ/williamkwek-developer-finalexercise/assets/92004085/89682183-bbd1-40cc-a14c-ed4f3c72f82f)
-
+![image](https://github.com/akamai-devops-APJ/Examples/assets/92004085/3a6e905c-936b-4873-8954-bdd26f947c2b)
 
 Here are my steps to deploy my demo app on Linode.
 
